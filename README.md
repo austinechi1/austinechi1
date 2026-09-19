@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am **Nwachukwu Austin**, an Information Systems and Technology student building practical solutions with data and technology. My background in television broadcasting, video production, graphic design, and media operations helps me combine analytical thinking with clear visual communication.
+I am **Nwachukwu Austine**, an Information Systems and Technology student building practical solutions with data and technology. My background in television broadcasting, video production, graphic design, and media operations helps me combine analytical thinking with clear visual communication.
 
 I am developing a portfolio in **data analytics, business analysis, database management, and web development**, with a focus on turning raw information into understandable insights and useful digital experiences.
 
