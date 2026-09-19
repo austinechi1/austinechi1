@@ -49,12 +49,6 @@ I am developing a portfolio in **data analytics, business analysis, database man
 - Applying business questions to data and communicating actionable findings
 - Managing and improving live websites for businesses and organizations
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=austinechi1&show_icons=true&theme=transparent&hide_border=true&title_color=C96F4F&icon_color=F2C1A5&text_color=C9A692" height="165" alt="Austine's GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinechi1&layout=compact&theme=transparent&hide_border=true&title_color=C96F4F&text_color=C9A692" height="165" alt="Austine's most-used languages">
-</p>
 
 ---
 
