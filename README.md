@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:austinen@mail.ru"><img src="https://img.shields.io/badge/Email-Contact-C96F4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:austinechi.fx@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C96F4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://austinechi1.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-D98463?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/austinechi1"><img src="https://img.shields.io/badge/GitHub-Follow-351A12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -11,7 +12,7 @@
 
 I am **Nwachukwu Austine**, an Information Systems and Technology student building practical solutions with data and technology. My background in television broadcasting, video production, graphic design, and media operations helps me combine analytical thinking with clear visual communication.
 
-I am developing a portfolio in **data analytics, business analysis, database management, and web development**, with a focus on turning raw information into understandable insights and useful digital experiences.
+I currently work with **S.H.E. Social, LLC** while developing a portfolio in **data analytics, business analysis, database management, and web development**, with a focus on turning raw information into understandable insights and useful digital experiences.
 
 ## Analytics Toolkit
 
@@ -40,7 +41,7 @@ I am developing a portfolio in **data analytics, business analysis, database man
 |---|---|---|
 | **[StreamWave Content Performance Analytics](https://github.com/austinechi1/StreamWave_Analytics_Portfolio)** | End-to-end cleaning, exploration, visualization, KPI analysis, and business recommendations using 15,035 synthetic streaming records | PostgreSQL, SQL, Python, pandas, Matplotlib, Seaborn |
 | **[S.H.E. Social Website](https://github.com/austinechi1/she_social_web)** | Business website development and ongoing digital project management | HTML, CSS, JavaScript, GitHub |
-| **Personal Portfolio** | A growing showcase of analytics and web-development projects | GitHub Pages, HTML, CSS, JavaScript |
+| **[Personal Portfolio](https://austinechi1.github.io/)** | A showcase of analytics, web development, media, speaking, and creative work | GitHub Pages, HTML, CSS, JavaScript |
 
 ## What I Am Working On
 
@@ -48,7 +49,6 @@ I am developing a portfolio in **data analytics, business analysis, database man
 - Strengthening SQL, PostgreSQL, Python, and Excel skills
 - Applying business questions to data and communicating actionable findings
 - Managing and improving live websites for businesses and organizations
-
 
 ---
 
