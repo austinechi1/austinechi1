@@ -31,15 +31,14 @@ I am an Information Systems and Technology student building hands-on experience 
 
 ## Featured Analytics Projects
 
-These are the five projects that best represent my current Data Analyst portfolio.
+These four projects best represent my current analytics portfolio, from public-data analysis to dashboards and AI-assisted exploration.
 
 | Project | Business / Analytics Focus | Tools |
 |---|---|---|
-| **[AI Data Analyst](https://github.com/austinechi1/AI-Data-Analyst)** | AI-assisted data exploration, data quality, KPI generation, natural-language SQL, visualizations, and business insights | Python, Pandas, SQLite, SQL, Streamlit, Plotly, OpenAI |
-| **[Consumer Financial Complaints Intelligence](https://github.com/austinechi1/Consumer-Financial-Complaints-Analysis)** | Complaint trends, product concentration, company response performance, geography, data quality, and advanced SQL analysis | PostgreSQL, SQL, Python, Pandas, Streamlit, Plotly |
+| **[Consumer Financial Complaints Intelligence](https://github.com/austinechi1/Consumer-Financial-Complaints-Analysis)** | Public CFPB complaint trends, product and geographic concentration, response performance, data quality, and advanced SQL analysis | PostgreSQL, SQL, Python, Pandas, Streamlit, Plotly |
+| **[AI Data Analyst](https://github.com/austinechi1/AI-Data-Analyst)** | Data profiling, cleaning, KPI generation, natural-language SQL, visualizations, and result-backed business insights | Python, Pandas, SQLite, SQL, Streamlit, Plotly, OpenAI |
 | **[UK Online Retail Performance Dashboard](https://github.com/austinechi1/UK-Online-Retail-PowerBI-Dashboard)** | Retail revenue, customer behaviour, product performance, returns, KPIs, and interactive business reporting | Power BI, Power Query, DAX, Data Modelling |
 | **[Nexus Supply Chain Analytics](https://github.com/austinechi1/Nexus-Supply-Chain-Analytics)** | Procurement, inventory, supplier performance, forecasting, delivery risk, and operational decision support | Excel, Python, Pandas, Forecasting, Plotly, Streamlit |
-| **[StreamWave Content Performance Analytics](https://github.com/austinechi1/StreamWave_Analytics_Portfolio)** | Streaming engagement, content performance, completion rates, platform behaviour, revenue modelling, and trend analysis | PostgreSQL, SQL, Python, Pandas, Matplotlib, Seaborn |
 
 ## My Analytics Workflow
 
@@ -55,9 +54,13 @@ I focus on making analysis reproducible and connecting technical work to a busin
 - Improving forecasting, risk analysis, and business intelligence
 - Exploring practical AI-assisted analytics tools
 
-## More Work
+## More Analytics Projects
 
-Outside my core analytics portfolio, I also build and manage digital products and websites, including:
+- **[StreamWave Content Performance Analytics](https://github.com/austinechi1/StreamWave_Analytics_Portfolio)** — a streaming analytics case study using clearly labeled synthetic data and modeled revenue.
+
+## Other Digital Projects
+
+Outside my core analytics portfolio, I also build and manage digital products and websites:
 
 - **[S.H.E. Social Website](https://github.com/austinechi1/she_social_web)**
 - **[Yahflex Website](https://github.com/austinechi1/yahflex-website)**
